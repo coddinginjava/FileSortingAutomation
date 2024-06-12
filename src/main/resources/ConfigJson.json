@@ -1,0 +1,15 @@
+{
+  "application": "File Custom Sorting",
+  "path" : {
+    "inputSourcePath" : "C:\\Users\\sai95\\Desktop\\img\\input",
+    "outputDestinationPath" : "C:\\Users\\sai95\\Desktop\\img\\output"
+  },
+  "FileExtensions": {
+    "video" : ["avi mpg","mpe","mpeg","asf","wmv","mov","qt","rm","mp4","flv","m4v","webm","ogv","ogg","mkv","ts","tsv"],
+    "audio" : ["mp3","wav","wma","mpa","ram","ra","aac","aif","m4a","tsa"],
+    "image" : ["jpg","png","gif","webp","tiff","psd","raw","bmp","heif","indd","jpeg","svg"],
+    "compressed" : ["zip","rar","r0*","r1*","arj","gz","sit","sitx","sea","ace","bz2","7z"],
+    "documents" : ["doc","pdf","ppt","pps","docx","pptx"],
+    "executables" : ["exe","msi"]
+  }
+}
